@@ -27,9 +27,9 @@
 		</div>
     	<img id="arrow" src="s/img/arrow.png" />   	
     	<form runat="server">
-    	<asp:TextBox id="input" value placeholder="Enter a valid mail here" runat="server" />
-    	<asp:Button id="button" onclick="button1Clicked" Text="Subscribe" runat="server" ></asp:Button>   	
-	  	</form>    
+    		<asp:TextBox id="input" value placeholder="Enter a valid mail here" runat="server" />
+	  	<asp:Button id="button" onclick="button1Clicked" Text="Subscribe" runat="server" />   	
+  	</form>    
         <a class="lang" href="/tr.aspx"><img class="lang" src="s/img/Turkey.png" /></a>        
  	</div>    
     <div id="softw">
